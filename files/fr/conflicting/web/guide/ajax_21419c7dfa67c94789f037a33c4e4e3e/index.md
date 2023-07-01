@@ -1,10 +1,10 @@
 ---
 title: Premiers pas
-slug: Web/Guide/AJAX/Getting_Started
+slug: conflicting/Web/Guide/AJAX_21419c7dfa67c94789f037a33c4e4e3e
 tags:
   - AJAX
 translation_of: Web/Guide/AJAX/Getting_Started
-original_slug: Web/Guide/AJAX/Premiers_pas
+original_slug: Web/Guide/AJAX/Getting_Started
 ---
 
 Cet article vous guide à travers les bases d’AJAX et vous donne deux exemples clefs-en-main pour débuter.
